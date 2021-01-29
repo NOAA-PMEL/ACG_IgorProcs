@@ -1,0 +1,5 @@
+
+*.pxp
+*/extra
+*/.svn
+archive/*

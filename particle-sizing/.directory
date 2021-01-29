@@ -1,0 +1,7 @@
+[Dolphin]
+SortOrder=1
+SortRole=date
+Timestamp=2018,10,18,14,28,38
+Version=3
+ViewMode=1
+VisibleRoles=Details_text,Details_size,Details_date,Details_permissions,CustomizedDetails
