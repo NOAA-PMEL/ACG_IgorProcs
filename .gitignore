@@ -3,3 +3,5 @@
 */extra
 */.svn
 archive/*
+*.itx
+.directory
