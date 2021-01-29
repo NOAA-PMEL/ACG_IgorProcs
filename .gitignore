@@ -4,4 +4,4 @@
 */.svn
 archive/*
 *.itx
-.directory
+# .directory
