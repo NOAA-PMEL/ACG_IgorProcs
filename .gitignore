@@ -1,7 +1,8 @@
 
 *.pxp
-*/extra
-*/.svn
-archive/*
+extra
+.svn
+archive
 *.itx
-# .directory
+.directory
+docs
