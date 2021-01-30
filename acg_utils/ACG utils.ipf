@@ -8,7 +8,9 @@
 //User defined variables====
 	//Path to local data source
 
-constant acg_utils_version=2.9
+constant acg_utils_version=2.10
+// -- moved to windows 10
+// constant acg_utils_version=2.9
 // --- Changes from 2.8 to 2.9 --- 12 July 2018
 // 	- probably lots of unrecorded changes
 //	- added function to avg windD using time index
